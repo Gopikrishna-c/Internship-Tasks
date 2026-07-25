@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "company": "TechPanda",
+        "required_skills": ["Python", "FastAPI", "SQL"],
+        "experience": 1
+    },
+    {
+        "id": 2,
+        "company": "Infosys",
+        "required_skills": ["Java", "Spring Boot", "MySQL"],
+        "experience": 2
+    },
+    {
+        "id": 3,
+        "company": "Zoho",
+        "required_skills": ["Python", "Django", "PostgreSQL"],
+        "experience": 2
+    },
+    {
+        "id": 4,
+        "company": "Freshworks",
+        "required_skills": ["Python", "Machine Learning", "FastAPI"],
+        "experience": 3
+    },
+    {
+        "id": 5,
+        "company": "TCS",
+        "required_skills": ["Python", "Docker", "Kubernetes"],
+        "experience": 3
+    }
+]
