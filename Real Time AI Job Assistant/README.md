@@ -384,11 +384,13 @@ Real_Time_AI_Job_Assistant/
 │   ├── jd_retriever_service.py
 │   ├── jd_rag_service.py
 │   │
-│   └── rag/
-│       ├── rag_service.py
-│       ├── embedding_service.py
-│       ├── vector_service.py
-│       └── retriever.py
+│   └──rag/
+       ├── chunking_service.py
+       ├── document_loader.py
+       ├── embedding_service.py
+       ├── rag_service.py
+       ├── retriever.py
+       └── vector_service.py    
 │
 ├── uploads/
 ├── chroma_db/
