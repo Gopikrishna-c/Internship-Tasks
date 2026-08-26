@@ -1,6 +1,6 @@
 # Internship-Tasks
 This repository contains all internship assignments, coding tasks, projects, and learning progress completed during my internship.
-# AI-Powered Candidate Intelligence Platform
+# AI-Powered Candidate Intelligence 
 
 Phase 1 MVP scaffold.
 
