@@ -1,4 +1,4 @@
-Candidate Intelligence 
+AI-Powered Candidate Intelligence
 
 An AI-powered recruitment platform that transforms an unstructured resume into a structured candidate profile, recommends suitable job roles, conducts an adaptive AI interview, and generates a job readiness benchmark.
 
