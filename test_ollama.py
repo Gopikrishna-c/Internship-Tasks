@@ -1,0 +1,10 @@
+﻿from ollama import chat
+
+response = chat(
+    model="llama3.2:3b",
+    messages=[
+        {"role": "user", "content": "Reply only with: Ollama Connected"}
+    ]
+)
+
+print(response.message.content)
