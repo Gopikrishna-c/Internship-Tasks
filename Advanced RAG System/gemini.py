@@ -1,0 +1,30 @@
+import os
+from dotenv import load_dotenv
+from google import genai
+
+load_dotenv()
+
+client = genai.Client(
+    api_key=os.getenv("GEMINI_API_KEY")
+)
+
+def ask_gemini(context, question):
+
+    prompt = f"""
+You are an AI Resume Assistant.
+
+Answer only from the context below.
+
+Context:
+{context}
+
+Question:
+{question}
+"""
+
+    response = client.models.generate_content(
+        model="gemini-3.1-flash-lite",
+        contents=prompt,
+    )
+
+    return response.text

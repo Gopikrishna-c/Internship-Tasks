@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+sqlalchemy
+pypdf
+python-dotenv
+python-jose
+passlib
+bcrypt
+google-genai
+sentence-transformers
+chromadb
+numpy
+faster-whisper
+edge-tts

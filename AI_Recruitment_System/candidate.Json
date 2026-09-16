@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Gopi",
+    "skills": ["Python", "FastAPI", "SQL"],
+    "experience": 1
+  },
+  {
+    "id": 2,
+    "name": "Guru",
+    "skills": ["Java", "Spring Boot", "MySQL"],
+    "experience": 2
+  },
+  {
+    "id": 3,
+    "name": "Surya",
+    "skills": ["Python", "Machine Learning", "FastAPI"],
+    "experience": 3
+  },
+  {
+    "id": 4,
+    "name": "Arjun",
+    "skills": ["Python", "Django", "PostgreSQL"],
+    "experience": 2
+  },
+  {
+    "id": 5,
+    "name": "Karthik",
+    "skills": ["Python", "Docker", "Kubernetes"],
+    "experience": 3
+  },
+  {
+    "id": 6,
+    "name": "Priya",
+    "skills": ["React", "Node.js", "MongoDB"],
+    "experience": 2
+  },
+  {
+    "id": 7,
+    "name": "Meena",
+    "skills": ["Python", "SQL", "Pandas"],
+    "experience": 2
+  },
+  {
+    "id": 8,
+    "name": "Rahul",
+    "skills": ["Java", "AWS", "Microservices"],
+    "experience": 4
+  },
+  {
+    "id": 9,
+    "name": "Divya",
+    "skills": ["Machine Learning", "TensorFlow", "Python"],
+    "experience": 3
+  },
+  {
+    "id": 10,
+    "name": "Naveen",
+    "skills": ["FastAPI", "Docker", "Python"],
+    "experience": 2
+  }
+]
